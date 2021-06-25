@@ -15,3 +15,5 @@ Microphone module you can get here: https://s.click.aliexpress.com/e/_Abs0Z2
 Arduino UNO: https://s.click.aliexpress.com/e/_Ap94tp
 
 Arduino wires (jumper wire, Dupont): https://s.click.aliexpress.com/e/_AV0WRl
+
+(Also you'll need a USB cable and a USB charger to power the arduino).
