@@ -1,4 +1,4 @@
-# Clap Switch Arduino Project
+# Clap Switch - Arduino Project
 
 Watch how it works https://youtu.be/G8uTmRrY1M8
 
