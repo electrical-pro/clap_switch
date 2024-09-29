@@ -8,12 +8,12 @@ For proper work and false triggering prevention you need to modify the microphon
 
 # Components
 
-Microphone module you can get here: https://s.click.aliexpress.com/e/_Abs0Z2
+Microphone module you can get here: [https://s.click.aliexpress.com/e/_Abs0Z2](https://s.click.aliexpress.com/e/_Abs0Z2)
 
-5V relay module: https://s.click.aliexpress.com/e/_AAXY9i
+5V relay module: [https://s.click.aliexpress.com/e/_AAXY9i](https://s.click.aliexpress.com/e/_AAXY9i)
 
-Arduino UNO: https://s.click.aliexpress.com/e/_Ap94tp
+Arduino UNO: [https://s.click.aliexpress.com/e/_Ap94tp](https://s.click.aliexpress.com/e/_Ddm2De1)
 
-Arduino wires (jumper wire, Dupont): https://s.click.aliexpress.com/e/_AV0WRl
+Arduino wires (jumper wire, Dupont): [https://s.click.aliexpress.com/e/_AV0WRl](https://s.click.aliexpress.com/e/_AV0WRl)
 
 (Also you'll need a USB cable and a USB charger to power the arduino).
